@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm amal</h1>
 <h3 align="center">A passionate Full Stack Developer who loves building real-world projects</h3>
 
-- 🔭 I’m currently working on **Automation Anywhere project, a fully fledged mobile app, a research paper & a case study**
+- 🔭 I’m currently working on **😉🤫**
 
 - 🌱 I’m currently learning **Git, React, Python**
 
